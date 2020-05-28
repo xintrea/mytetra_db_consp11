@@ -52,6 +52,17 @@
       <record id="1590681688zapsopyzea" name="Отключить в системе swap-файл" author="" url="" tags="" ctime="20200528190128" dir="1590681688plqhxhwnde" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1590683507v7zt2k6j02" name="Конспирология">
+     <node crypt="" id="1590683515iyehdteswk" name="Не стоит доверия"/>
+     <node crypt="" id="1590683520o2ujtpvbd7" name="Стоит внимания">
+      <recordtable>
+       <record id="1590685106i22s7dtf49" name="Адепт, в общем, адекватен" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528200009" dir="1590685106lzka7i4vb8" file="text.html"/>
+       <record id="15906851452czrp6ev55" name="Адепт не демонтрирует клановости, способен признавать свои ошибки" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528200011" dir="1590685145bhlyyptcou" file="text.html"/>
+       <record id="1590685236r1pswwxnl7" name="Адепт подтверждает информацию проверяемыми ссылками" author="" url="" tags="" ctime="20200528200036" dir="1590685236vhnznvlpbi" file="text.html"/>
+       <record id="1590685278y9d2bvv3s6" name="Адепта пытаются очернить" author="" url="" tags="" ctime="20200528200118" dir="15906852788zlsj98mu0" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
    </node>
   </node>
  </content>
