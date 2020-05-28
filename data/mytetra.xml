@@ -53,13 +53,35 @@
      </recordtable>
     </node>
     <node crypt="" id="1590683507v7zt2k6j02" name="Конспирология">
-     <node crypt="" id="1590683515iyehdteswk" name="Не стоит доверия"/>
+     <node crypt="" id="1590683515iyehdteswk" name="Не стоит доверия">
+      <recordtable>
+       <record id="1590685953snmmrok1jc" name="Адепт теории занимается сыроедением или серьёзно помешан на нетрадиционных религиях" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201233" dir="159068595306l6knkbqb" file="text.html"/>
+       <record id="1590685978xdcus8avop" name="Адепт проявляет слишком сильную и догматическую, мещанскую религиозность" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201258" dir="1590685978k4o6ynrxlk" file="text.html"/>
+       <record id="15906859929mfa01trvl" name="Адепт имеет коммерческий успех с данной теории" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201312" dir="15906859923k5gb6115k" file="text.html"/>
+       <record id="159068603400whwd1ktv" name="Адепт не осмысливает информацию, даёт её слишком много" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201354" dir="1590686034pphlnmk1pn" file="text.html"/>
+       <record id="1590686059cg4x5fq62u" name="Адепт даёт слишком много сомнительной или непроверенной информации" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201419" dir="1590686059wvql407yxy" file="text.html"/>
+       <record id="15906860737aq8r8b3f4" name="Адепт приглашён на федеральное телевидение" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201433" dir="1590686073915c4as8gf" file="text.html"/>
+       <record id="1590686086qw9vntlvfs" name="Адепт теории - глупый человек" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201446" dir="1590686086c7dpx2wx30" file="text.html"/>
+       <record id="1590686096xh5927f2zc" name="Адепт банит противников в комментариях" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201456" dir="1590686096crg0hevtyz" file="text.html"/>
+       <record id="1590686111ytl0z3tdke" name="Адепт, ранее говорящий интересную информацию, вдруг незаметно, но резко поменял курс и отношение к оппонентам" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201511" dir="1590686111m9cu0607j8" file="text.html"/>
+      </recordtable>
+     </node>
      <node crypt="" id="1590683520o2ujtpvbd7" name="Стоит внимания">
       <recordtable>
        <record id="1590685106i22s7dtf49" name="Адепт, в общем, адекватен" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528200009" dir="1590685106lzka7i4vb8" file="text.html"/>
        <record id="15906851452czrp6ev55" name="Адепт не демонтрирует клановости, способен признавать свои ошибки" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528200011" dir="1590685145bhlyyptcou" file="text.html"/>
-       <record id="1590685236r1pswwxnl7" name="Адепт подтверждает информацию проверяемыми ссылками" author="" url="" tags="" ctime="20200528200036" dir="1590685236vhnznvlpbi" file="text.html"/>
-       <record id="1590685278y9d2bvv3s6" name="Адепта пытаются очернить" author="" url="" tags="" ctime="20200528200118" dir="15906852788zlsj98mu0" file="text.html"/>
+       <record id="1590685236r1pswwxnl7" name="Адепт подтверждает информацию проверяемыми ссылками" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528200036" dir="1590685236vhnznvlpbi" file="text.html"/>
+       <record id="1590685278y9d2bvv3s6" name="Адепта пытаются очернить" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528200118" dir="15906852788zlsj98mu0" file="text.html"/>
+       <record id="1590685824rybqy30vn2" name="Адепта пытаются запутать" author="" url="https://consp11.github.io/main/8-cpgy.html" tags="" ctime="20200528201024" dir="1590685824z4exa2fbv1" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1590686239p8qej1q7r5" name="Рекомендации">
+      <recordtable>
+       <record id="1590686247bdyat710ow" name="Конспектировать то, что говорят адепты очередной теории" author="" url="" tags="" ctime="20200528201727" dir="15906862470hy8ziai5c" file="text.html"/>
+       <record id="1590686260tfla6rz038" name="По возможности, проверять и соотносить" author="" url="" tags="" ctime="20200528201740" dir="1590686260izvjcj8qie" file="text.html"/>
+       <record id="15906863170w6f032e6u" name="Смотреть, кто даёт больше информации и у кого она ближе к делу и имеет больше доказательств" author="" url="" tags="" ctime="20200528201837" dir="1590686317v9zczkaxi8" file="text.html"/>
+       <record id="1590686360g7bfkwqem7" name="Помнить, что вы можете не понимать эмоциональную составляющую" author="" url="" tags="" ctime="20200528201920" dir="159068636004gtams5do" file="text.html"/>
+       <record id="1590686413yox18m7j8g" name="Помнить, что вы можете не понимать внутреннюю составляющую каких-то интриг" author="" url="" tags="" ctime="20200528202013" dir="15906864137b1xqxn6gx" file="text.html"/>
       </recordtable>
      </node>
     </node>
