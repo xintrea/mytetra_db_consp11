@@ -86,6 +86,16 @@
      </node>
     </node>
    </node>
+   <node crypt="" id="1590686983ejewpe5reb" name="Принципы безопасности">
+    <node crypt="" id="15906869894to5uob5hf" name="Изоляция и разделение">
+     <node crypt="" id="15906870468z961fq1im" name="Разделение личностей">
+      <recordtable>
+       <record id="159068721702zl8lh5rz" name="Разделение по внешним признакам" author="" url="" tags="" ctime="20200528203337" dir="1590687217xzbgwetf88" file="text.html"/>
+       <record id="159068752705rbepv3gx" name="Разделение по объективным признакам" author="" url="" tags="" ctime="20200528203847" dir="1590687527nslgamvbog" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
   </node>
  </content>
 </root>
