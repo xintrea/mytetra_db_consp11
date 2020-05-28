@@ -3,6 +3,10 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1590670435pokwxka4q8" name="Переименуй меня"/>
+  <node crypt="" id="1590670435pokwxka4q8" name="Переименуй меня">
+   <recordtable>
+    <record id="15906716158ubjsy7ijd" name="URL базы данных" author="" url="" tags="" ctime="20200528161335" dir="1590671615i9la70hc22" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
