@@ -3,7 +3,7 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1590670435pokwxka4q8" name="Курс">
+  <node crypt="" id="1590670435pokwxka4q8" name="Конспект курса гражданской криптографии">
    <recordtable>
     <record id="15906717374b65die5v1" name="URL курса гражданской конспирации" author="Виноградов С.В." url="https://consp11.github.io" tags="" ctime="20200528161537" dir="1590671737xhabmbgabp" file="text.html"/>
     <record id="15906716158ubjsy7ijd" name="URL базы данных" author="" url="" tags="" ctime="20200528161335" dir="1590671615i9la70hc22" file="text.html"/>
@@ -38,6 +38,19 @@
        <record id="1590679899xcf9nyusfv" name="Повышенные требования ФСБ к лицензированию" author="" url="" tags="доверие, криптография" ctime="20200528183139" dir="15906798993bz0src22n" file="text.html"/>
       </recordtable>
      </node>
+    </node>
+    <node crypt="" id="1590680940uapgzxrkk4" name="Парирование">
+     <recordtable>
+      <record id="1590680983y1hlggs66b" name="Там где можно - мы не доверяем никому" author="" url="" tags="" ctime="20200528184943" dir="15906809832tnp5k4jx9" file="text.html"/>
+      <record id="15906814443o700v82w2" name="Физическое отключение от интернета" author="" url="" tags="" ctime="20200528185724" dir="1590681444gin5p7yw2q" file="text.html"/>
+      <record id="1590681808dgkcgp9gcl" name="Использовать ПО, которое использует как можно меньше стороннего кода, особенно, несвободного." author="" url="" tags="" ctime="20200528190328" dir="15906818089ynm2ewacj" file="text.html"/>
+      <record id="1590681019cdwndbb0rp" name="Использование ПО с открытым исходным кодом" author="" url="" tags="" ctime="20200528185019" dir="15906810199t0twndwtc" file="text.html"/>
+      <record id="1590681085hrc40zn9g8" name="Опасайтесь внушений" author="" url="" tags="" ctime="20200528185125" dir="1590681085od221mgznu" file="text.html"/>
+      <record id="1590681369fz90kdhffb" name="Если ПО открытое - это не означает, что оно не от крупной корпорации" author="" url="" tags="" ctime="20200528185609" dir="1590681369me5l5f80z1" file="text.html"/>
+      <record id="1590681075ic0so2igsd" name="Не использовать ПО от крупных корпораций" author="" url="" tags="" ctime="20200528185115" dir="1590681075jmis2h8oqj" file="text.html"/>
+      <record id="1590681627i3c9lkzzj9" name="Отказаться от ПО, разработанного на C и C++" author="" url="" tags="" ctime="20200528190027" dir="1590681627nzbciaizlj" file="text.html"/>
+      <record id="1590681688zapsopyzea" name="Отключить в системе swap-файл" author="" url="" tags="" ctime="20200528190128" dir="1590681688plqhxhwnde" file="text.html"/>
+     </recordtable>
     </node>
    </node>
   </node>
