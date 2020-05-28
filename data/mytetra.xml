@@ -3,11 +3,36 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="1590670435pokwxka4q8" name="Переименуй меня">
+  <node crypt="" id="1590670435pokwxka4q8" name="Курс">
    <recordtable>
-    <record id="15906716158ubjsy7ijd" name="URL базы данных" author="" url="" tags="" ctime="20200528161335" dir="1590671615i9la70hc22" file="text.html"/>
     <record id="15906717374b65die5v1" name="URL курса гражданской конспирации" author="Виноградов С.В." url="https://consp11.github.io" tags="" ctime="20200528161537" dir="1590671737xhabmbgabp" file="text.html"/>
+    <record id="15906716158ubjsy7ijd" name="URL базы данных" author="" url="" tags="" ctime="20200528161335" dir="1590671615i9la70hc22" file="text.html"/>
    </recordtable>
+   <node crypt="" id="1590671933ifzaaf5zjh" name="Доверие">
+    <recordtable>
+     <record id="1590672181mf9uad5x2q" name="Без доверия невозможно прожить" author="Виноградов С.В." url="https://consp11.github.io/main/1-lie.html" tags="" ctime="20200528162301" dir="1590672181xkdm22icyu" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1590672238bcowm2ft65" name="Оценка уровня доверия">
+     <recordtable>
+      <record id="1590672254jndapm76qj" name="Насколько достоверен источник информации?" author="" url="https://consp11.github.io/main/1-lie.html" tags="" ctime="20200528162414" dir="1590672254w2htpgastg" file="text.html"/>
+      <record id="1590672264q3mw302h12" name="Вынуждены ли мы доверять этому источнику информации?" author="" url="" tags="" ctime="20200528162424" dir="1590672264l79twj0v5q" file="text.html"/>
+      <record id="15906723001sdbgqwmaz" name="Что произойдёт, если мы ему будем доверять, но он не оправдает наше доверие?" author="" url="" tags="" ctime="20200528162500" dir="1590672300w7i2cidkka" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1590672643xbzyed1j8f" name="Криптография">
+     <recordtable>
+      <record id="1590672553j09jo7wqxj" name="Доверие к криптографии: кому мы доверяем?" author="" url="https://consp11.github.io/edu/lie.y8fa-1.html" tags="Криптография" ctime="20200528163043" dir="1590672553xhrbbt7sh8" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1590672675fdm9xsuwh6" name="Некоторые ошибки в криптографии">
+      <recordtable>
+       <record id="1590672699d8lsvntr0l" name="RC4" author="" url="" tags="" ctime="20200528163139" dir="1590672699mab2wye9ah" file="text.html"/>
+       <record id="1590672862i86pg6ntot" name="Экспортные ограничения из США" author="" url="https://consp11.github.io/edu/lie.y8fa-1.html" tags="" ctime="20200528163422" dir="1590672862k52gqnsvzt" file="text.html"/>
+       <record id="1590673678jindg0ddx4" name="POODLE и Padding Oracle" author="" url="https://consp11.github.io/edu/lie.y8fa-1.htmlhttps://en.wikipedia.org/wiki/Padding_oracle_attack" tags="" ctime="20200528164758" dir="15906736781uw2cgf8di" file="text.html"/>
+       <record id="1590674405tqz46cwv2o" name="DES" author="" url="https://consp11.github.io/main/1-lie.html" tags="" ctime="20200528170005" dir="1590674405ubd3qe8kn2" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
   </node>
  </content>
 </root>
