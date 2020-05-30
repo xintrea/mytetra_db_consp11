@@ -90,8 +90,12 @@
     <node crypt="" id="15906869894to5uob5hf" name="Изоляция и разделение">
      <node crypt="" id="15906870468z961fq1im" name="Разделение личностей">
       <recordtable>
-       <record id="159068721702zl8lh5rz" name="Разделение по внешним признакам" author="" url="" tags="" ctime="20200528203337" dir="1590687217xzbgwetf88" file="text.html"/>
-       <record id="159068752705rbepv3gx" name="Разделение по объективным признакам" author="" url="" tags="" ctime="20200528203847" dir="1590687527nslgamvbog" file="text.html"/>
+       <record id="159068721702zl8lh5rz" name="Разделение по внешним признакам" author="" url="https://consp11.github.io/main/2-isolation.html" tags="" ctime="20200528203337" dir="1590687217xzbgwetf88" file="text.html"/>
+       <record id="159068752705rbepv3gx" name="Разделение по объективным признакам" author="" url="https://consp11.github.io/main/2-isolation.html" tags="" ctime="20200528203847" dir="1590687527nslgamvbog" file="text.html"/>
+       <record id="15908263784lnvcq3eit" name="Шлюз" author="" url="https://consp11.github.io/main/2-isolation.html" tags="" ctime="20200530111258" dir="1590826378rydt4h0ebx" file="text.html"/>
+       <record id="1590826608gji13oyfmk" name="Двойники" author="" url="https://consp11.github.io/main/2-isolation.html" tags="" ctime="20200530111648" dir="1590826608ysraa7m29l" file="text.html"/>
+       <record id="15908265125roxxz1dv1" name="Изоляция предметов" author="" url="https://consp11.github.io/main/2-isolation.html" tags="" ctime="20200530111512" dir="1590826512vmg4zchf36" file="text.html"/>
+       <record id="1590827042oh983e3x3r" name="Тотальная слежка" author="" url="https://consp11.github.io/main/2-isolation.html" tags="" ctime="20200530112402" dir="1590827042vcziwsmzza" file="text.html"/>
       </recordtable>
      </node>
     </node>
