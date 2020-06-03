@@ -106,5 +106,58 @@
     </node>
    </node>
   </node>
+  <node crypt="" id="1591193829i72tbeqkdu" name="Программы и сервисы">
+   <node crypt="" id="1591193848nu6kx8h5nc" name="Сетевые">
+    <node crypt="" id="1591193854kr1n3t0o3h" name="Клиенты">
+     <node crypt="" id="1591193964na5mdmvhyp" name="FTP">
+      <recordtable>
+       <record id="1591193958loljj6blc8" name="FileZilla Client" author="" url="https://filezilla-project.org/download.php?type=client" tags="Windows" ctime="20200603171926" dir="1591193958rq08fezr6f" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591193979nk72d1b6tg" name="Закачки">
+      <recordtable>
+       <record id="159119402119r81z1rzt" name="Download Master" author="" url="https://westbyte.com/dm/" tags="Windows" ctime="20200603172021" dir="1591194021vicp8z2kuh" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
+   <node crypt="" id="1591194050uyoiqmlom8" name="Безопасность">
+    <node crypt="" id="1591194053fnf91pvnm3" name="Криптография">
+     <node crypt="" id="1591194079q1myy194y9" name="Менеджеры паролей">
+      <recordtable>
+       <record id="1591194072selyy8epjb" name="KeePass" author="" url="https://keepass.info/" tags="Windows, .NET" ctime="20200603172123" dir="15911940722oqkyvkb2a" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591194989wvxiz2iocr" name="Шифрование">
+      <recordtable>
+       <record id="1591195005o7pimcor9w" name="GPG for Windows" author="" url="https://gpg4win.org/download.html" tags="Windows" ctime="20200603173645" dir="1591195005tdvunf9mby" file="text.html">
+        <files>
+         <file id="1591196062i8e8c9wnin" fileName="Intevation-Distribution-Key.asc" type="file"/>
+        </files>
+       </record>
+       <record id="1591195857vklzxbyrnf" name="GnuPG: The GNU Privacy Guard" author="" url="https://gnupg.org/" tags="Windows, Linux" ctime="20200603175057" dir="1591195857suq060o79j" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1591194238crdviczoim" name="Сети и прокси">
+     <node crypt="" id="1591194242bd1k2ir4yg" name="TOR">
+      <recordtable>
+       <record id="15911948088etvynsfdm" name="TorBrowser" author="" url="https://www.torproject.org/download/" tags="Windows, Linux" ctime="20200603173328" dir="1591194808zbzh0nl48d" file="text.html"/>
+       <record id="1591194479yrh8fv8ng2" name="Whonix" author="" url="https://www.whonix.org/#download" tags="Windows, Linux" ctime="20200603172759" dir="1591194479mdy5s2ys0k" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
+   <node crypt="" id="1591194492f4xrdygd5g" name="Системные">
+    <node crypt="" id="1591194500yf1ok9ztr7" name="Виртуализация">
+     <recordtable>
+      <record id="1591194530dlms79txrh" name="Virtual Box" author="" url="https://www.virtualbox.org/wiki/Downloads" tags="Windows, Linux" ctime="20200603172850" dir="1591194530490d95458u" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="1591193838cjysajsq2t" name="Заметки">
+   <node crypt="" id="1591193842ew8n4k0f7v" name="Творчество"/>
+  </node>
  </content>
 </root>
