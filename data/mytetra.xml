@@ -181,22 +181,46 @@
      <recordtable>
       <record id="1591208412s7ophxlbwd" name="Общая методика" author="" url="" tags="" ctime="20200603212012" dir="1591208412kcs97qze1l" file="text.html"/>
       <record id="15912081774jbcsmlk8j" name="Ассоциации по списку &quot;крючков&quot;" author="" url="" tags="" ctime="20200603211617" dir="1591208177byfdb0llx4" file="text.html"/>
+      <record id="1591215191b2ipt519ie" name="Профильные аналогии" author="" url="" tags="" ctime="20200603231311" dir="15912151914ljhbahgma" file="text.html"/>
+      <record id="1591212561n44gtdpvf1" name="Свободные аналогии" author="" url="" tags="" ctime="20200603222921" dir="1591212561x1enbyc1uj" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1591208934mmue8l1wl1" name="Простые изменения">
      <recordtable>
       <record id="1591208949xt79c83e5u" name="Изменение количества" author="" url="" tags="" ctime="20200603212909" dir="159120894955oeg1g0pr" file="text.html"/>
       <record id="1591210224yz2bdvqph0" name="Изменение отношений количества" author="" url="" tags="" ctime="20200603215024" dir="1591210224cmd6k59idm" file="text.html"/>
-      <record id="1591209246vugudqysby" name="Изменение качества" author="" url="" tags="" ctime="20200603213406" dir="1591209246q0zy1608ut" file="text.html"/>
-      <record id="159121049704zt7owavh" name="Обобщение и конкретизация" author="" url="" tags="" ctime="20200603215457" dir="1591210497lqcer9cwm8" file="text.html"/>
+      <record id="1591209246vugudqysby" name="Изменение качества и оси времени" author="" url="" tags="" ctime="20200603213406" dir="1591209246q0zy1608ut" file="text.html"/>
+      <record id="159121091697dk30urzr" name="Изменение или дополнение формулировки задачи" author="" url="" tags="" ctime="20200603220156" dir="1591210916q3w5q6l3g0" file="text.html"/>
+      <record id="1591210923ptr54w1kl2" name="Перефокусировка" author="" url="" tags="" ctime="20200603220203" dir="1591210923nqfk9v4uvf" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1591206951cv42zb7bgf" name="Компонентный подход"/>
+    <node crypt="" id="1591210964rmj8uhmriv" name="Преднамеренные ошибки">
+     <recordtable>
+      <record id="1591211159deim3fimy8" name="Допустимые ошибки в формулировке" author="" url="" tags="" ctime="20200603220559" dir="1591211159yvh9krqvje" file="text.html"/>
+      <record id="159121049704zt7owavh" name="Обобщение и конкретизация, частные случаи" author="" url="" tags="" ctime="20200603230323" dir="1591210497lqcer9cwm8" file="text.html"/>
+      <record id="15912145804kozj4s2h1" name="Ограниченно всемогущие" author="" url="" tags="" ctime="20200603230300" dir="1591214580wbsilxi97w" file="text.html"/>
+      <record id="1591211258vhm76p2is1" name="Минимально приемлемый результат" author="" url="" tags="" ctime="20200603220738" dir="1591211258s109ykp3na" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1591206951cv42zb7bgf" name="Компонентный подход">
+     <recordtable>
+      <record id="15912153891rjs39x4dd" name="Общая методика" author="" url="" tags="" ctime="20200603231629" dir="1591215389aaxujbcl5o" file="text.html"/>
+      <record id="1591215588pq6g820pin" name="Добавление метрик объектов" author="" url="" tags="" ctime="20200603231948" dir="1591215588mssp5fto1n" file="text.html"/>
+      <record id="159121529304e9d90b3m" name="Добавление объекта между другими объектами" author="" url="" tags="" ctime="20200603231453" dir="1591215293hpktpem1j2" file="text.html"/>
+      <record id="1591216295qfwn3uuxak" name="Исходные посылки" author="" url="" tags="" ctime="20200603233135" dir="1591216295g1n1q3n0qd" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="1591206966udvgcckys0" name="Всё наоборот"/>
     <node crypt="" id="1591208186h6yn4zgb7j" name="Классификация"/>
     <node crypt="" id="15912069619m702hdemw" name="В чём сложность задачи?"/>
+    <node crypt="" id="15912115538kg2t0u1rh" name="Доказательство неразрешимости"/>
     <node crypt="" id="1591210505rgvhr9f5gc" name="Двунаправленный подход"/>
     <node crypt="" id="1591206934qaujxhsh1i" name="Суд"/>
+    <node crypt="" id="1591213020a2rv65j148" name="Инкубатор идей">
+     <recordtable>
+      <record id="1591213015fctge0733a" name="Мелкие гранулы" author="" url="" tags="" ctime="20200603223707" dir="1591213015qjpri1yeoc" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
