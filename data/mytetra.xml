@@ -218,6 +218,7 @@
     <node crypt="" id="1591206934qaujxhsh1i" name="Суд"/>
     <node crypt="" id="1591213020a2rv65j148" name="Инкубатор идей">
      <recordtable>
+      <record id="1591217370zdxfh3umi6" name="Икубатор" author="" url="" tags="" ctime="20200603234930" dir="1591217370q45xm1lfr9" file="text.html"/>
       <record id="1591213015fctge0733a" name="Мелкие гранулы" author="" url="" tags="" ctime="20200603223707" dir="1591213015qjpri1yeoc" file="text.html"/>
      </recordtable>
     </node>
