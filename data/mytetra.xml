@@ -107,70 +107,148 @@
    </node>
   </node>
   <node crypt="" id="1591193829i72tbeqkdu" name="Программы и сервисы">
-   <node crypt="" id="1591193848nu6kx8h5nc" name="Сетевые">
-    <node crypt="" id="1591193854kr1n3t0o3h" name="Клиенты">
-     <node crypt="" id="1591193964na5mdmvhyp" name="FTP">
+   <node crypt="" id="1591284216spua1ixos3" name="Программы">
+    <node crypt="" id="1591284227dv526m5hq9" name="Сетевые">
+     <node crypt="" id="1591284227dh9mjdz8th" name="Клиенты">
+      <node crypt="" id="1591284227vdf53rcich" name="FTP">
+       <recordtable>
+        <record id="1591193958loljj6blc8" name="FileZilla Client" author="" url="https://filezilla-project.org/download.php?type=client" tags="Windows" ctime="20200604182347" dir="1591193958rq08fezr6f" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="1591284227nvgicmu7g2" name="Закачки">
+       <recordtable>
+        <record id="159119402119r81z1rzt" name="Download Master" author="" url="https://westbyte.com/dm/" tags="Windows" ctime="20200604182347" dir="1591194021vicp8z2kuh" file="text.html"/>
+        <record id="1591303907t4uuln02f9" name="qBittorrent" author="" url="https://www.qbittorrent.org/download.php" tags="Windows, Linux, MacOS" ctime="20200604235147" dir="1591303907p8mdq0x13f" file="text.html">
+         <files>
+          <file id="1591304007brm8ism6gl" fileName="qbittorrent-5B7CC9A2.asc" type="file"/>
+         </files>
+        </record>
+       </recordtable>
+      </node>
+     </node>
+     <node crypt="" id="15912842279s16nsvvey" name="Сети и прокси">
+      <node crypt="" id="1591284227ivkb9jjiqb" name="TOR">
+       <recordtable>
+        <record id="15911948088etvynsfdm" name="TorBrowser" author="" url="https://www.torproject.org/download/" tags="Windows, Linux" ctime="20200604182347" dir="1591194808zbzh0nl48d" file="text.html">
+         <files>
+          <file id="1591199407hd6vmvs39o" fileName="torkey-kounek7zrdx745qydx6p59t9mqjpuhdf.asc" type="file"/>
+         </files>
+        </record>
+        <record id="1591194479yrh8fv8ng2" name="Whonix" author="" url="https://www.whonix.org/#download" tags="Windows, Linux" ctime="20200604182347" dir="1591194479mdy5s2ys0k" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="1591284227xlkfa4lwm2" name="Прокси">
+       <recordtable>
+        <record id="1591284193jtg3qt0ce2" name="Privoxy" author="" url="https://www.privoxy.org/" tags="" ctime="20200604182347" dir="1591284193j5q9qkn311" file="text.html"/>
+       </recordtable>
+      </node>
+     </node>
+    </node>
+    <node crypt="" id="1591284235aftc8s1h1y" name="СЗИ">
+     <node crypt="" id="1591284235dalsw65sl2" name="Криптография">
+      <node crypt="" id="159128423569kx8mqr66" name="Менеджеры паролей">
+       <recordtable>
+        <record id="1591194072selyy8epjb" name="KeePass" author="" url="https://keepass.info/" tags="Windows, .NET" ctime="20200604182355" dir="15911940722oqkyvkb2a" file="text.html">
+         <files>
+          <file id="1591199543oalu4g9plb" fileName="DominikReichl.asc" type="file"/>
+         </files>
+        </record>
+       </recordtable>
+      </node>
+      <node crypt="" id="1591284235nri8m68kfz" name="Шифрование">
+       <recordtable>
+        <record id="1591195005o7pimcor9w" name="GPG for Windows" author="" url="https://gpg4win.org/download.html" tags="Windows" ctime="20200604182355" dir="1591195005tdvunf9mby" file="text.html">
+         <files>
+          <file id="1591196062i8e8c9wnin" fileName="Intevation-Distribution-Key.asc" type="file"/>
+         </files>
+        </record>
+        <record id="1591195857vklzxbyrnf" name="GnuPG: The GNU Privacy Guard" author="" url="https://gnupg.org/" tags="Windows, Linux" ctime="20200604182355" dir="1591195857suq060o79j" file="text.html"/>
+        <record id="1591288999kh3yynf60r" name="OpenSSL" author="" url="https://www.openssl.org/" tags="" ctime="20200604194319" dir="1591288999ou5h9qnlqd" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="1591288435a408r5348e" name="Диски">
+       <recordtable>
+        <record id="1591288457oh72jgzcv5" name="VeraCrypt" author="" url="https://www.veracrypt.fr/en/Home.html" tags="" ctime="20200604193417" dir="15912884570k4u5r73tm" file="text.html"/>
+       </recordtable>
+      </node>
+      <node crypt="" id="1591290057ll6n6th9a4" name="Стеганография">
+       <recordtable>
+        <record id="1591290116olhzcgqo00" name="OpenPuff" author="" url="https://embeddedsw.net/OpenPuff_Steganography_Home_ru.html" tags="" ctime="20200604200156" dir="1591290116u0nmn418ww" file="text.html"/>
+       </recordtable>
+      </node>
+     </node>
+    </node>
+    <node crypt="" id="1591284241w42ufr6r3o" name="Системные">
+     <node crypt="" id="1591284241hcp3cqif62" name="Виртуализация">
       <recordtable>
-       <record id="1591193958loljj6blc8" name="FileZilla Client" author="" url="https://filezilla-project.org/download.php?type=client" tags="Windows" ctime="20200603171926" dir="1591193958rq08fezr6f" file="text.html"/>
+       <record id="1591194530dlms79txrh" name="Virtual Box" author="" url="https://www.virtualbox.org/wiki/Downloads" tags="Windows, Linux" ctime="20200604182401" dir="1591194530490d95458u" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="1591193979nk72d1b6tg" name="Закачки">
+     <node crypt="" id="15912842416f64b4vvct" name="Администрирование">
       <recordtable>
-       <record id="159119402119r81z1rzt" name="Download Master" author="" url="https://westbyte.com/dm/" tags="Windows" ctime="20200603172021" dir="1591194021vicp8z2kuh" file="text.html"/>
+       <record id="1591201126dwdwzbljxy" name="unlock-it: разблокировка заблокированных файлов" author="" url="https://emcosoftware.com/unlock-it" tags="Windows" ctime="20200604182401" dir="1591201126wbygpgayzv" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591284241r4kenx1mfg" name="Диски">
+      <recordtable>
+       <record id="1591203482xabyayykt5" name="ImDisk" author="" url="http://www.ltr-data.se/opencode.html#ImDisk" tags="" ctime="20200604182401" dir="1591203482jls1409rgw" file="text.html"/>
+       <record id="1591203505805w83o18t" name="ImDisk Toolkit" author="" url="https://sourceforge.net/projects/imdisk-toolkit/" tags="" ctime="20200604182401" dir="1591203505sq5fwm8ol3" file="text.html"/>
+       <record id="1591290238e314dtzhze" name="Dataram RamDisk" author="" url="http://memory.dataram.com/products-and-services/software/ramdisk" tags="" ctime="20200604200358" dir="1591290238sdodox6z96" file="text.html"/>
       </recordtable>
      </node>
     </node>
-    <node crypt="" id="15912024788tvkygannb" name="Сети и прокси">
-     <node crypt="" id="1591202478te5qdh6wsk" name="TOR">
+    <node crypt="" id="15912842580jrhgd8khz" name="Текст и данные">
+     <node crypt="" id="1591284286wtkxzo1n3o" name="Текстовые редакторы и иное">
       <recordtable>
-       <record id="15911948088etvynsfdm" name="TorBrowser" author="" url="https://www.torproject.org/download/" tags="Windows, Linux" ctime="20200603194118" dir="1591194808zbzh0nl48d" file="text.html">
+       <record id="1591284349r40hc1tprx" name="MyTetra" author="" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="Windows, Linux" ctime="20200604182549" dir="1591284349vdlqfn95l2" file="text.html"/>
+       <record id="15912845009urkb9i1ro" name="Notepad++" author="" url="https://notepad-plus-plus.org/" tags="" ctime="20200604182820" dir="1591284500cdxucv38c9" file="text.html">
         <files>
-         <file id="1591199407hd6vmvs39o" fileName="torkey-kounek7zrdx745qydx6p59t9mqjpuhdf.asc" type="file"/>
+         <file id="1591284539j0h1h0kvz0" fileName="nppGpgPub.asc" type="file"/>
         </files>
        </record>
-       <record id="1591194479yrh8fv8ng2" name="Whonix" author="" url="https://www.whonix.org/#download" tags="Windows, Linux" ctime="20200603194118" dir="1591194479mdy5s2ys0k" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591289010f6fyc68etu" name="Архиваторы">
+      <recordtable>
+       <record id="1591289328iaqi25vd5u" name="7-zip" author="" url="https://www.7-zip.org/" tags="" ctime="20200604194848" dir="1591289328mqmke3zrht" file="text.html"/>
       </recordtable>
      </node>
     </node>
-   </node>
-   <node crypt="" id="1591194050uyoiqmlom8" name="Безопасность">
-    <node crypt="" id="1591194053fnf91pvnm3" name="Криптография">
-     <node crypt="" id="1591194079q1myy194y9" name="Менеджеры паролей">
-      <recordtable>
-       <record id="1591194072selyy8epjb" name="KeePass" author="" url="https://keepass.info/" tags="Windows, .NET" ctime="20200603172123" dir="15911940722oqkyvkb2a" file="text.html">
-        <files>
-         <file id="1591199543oalu4g9plb" fileName="DominikReichl.asc" type="file"/>
-        </files>
-       </record>
-      </recordtable>
-     </node>
-     <node crypt="" id="1591194989wvxiz2iocr" name="Шифрование">
-      <recordtable>
-       <record id="1591195005o7pimcor9w" name="GPG for Windows" author="" url="https://gpg4win.org/download.html" tags="Windows" ctime="20200603173645" dir="1591195005tdvunf9mby" file="text.html">
-        <files>
-         <file id="1591196062i8e8c9wnin" fileName="Intevation-Distribution-Key.asc" type="file"/>
-        </files>
-       </record>
-       <record id="1591195857vklzxbyrnf" name="GnuPG: The GNU Privacy Guard" author="" url="https://gnupg.org/" tags="Windows, Linux" ctime="20200603175057" dir="1591195857suq060o79j" file="text.html"/>
-      </recordtable>
-     </node>
-    </node>
-   </node>
-   <node crypt="" id="1591194492f4xrdygd5g" name="Системные">
-    <node crypt="" id="1591194500yf1ok9ztr7" name="Виртуализация">
+    <node crypt="" id="15912842647a6ayxwipv" name="Интерактивные">
      <recordtable>
-      <record id="1591194530dlms79txrh" name="Virtual Box" author="" url="https://www.virtualbox.org/wiki/Downloads" tags="Windows, Linux" ctime="20200603172850" dir="1591194530490d95458u" file="text.html"/>
+      <record id="15912835963gfgwtrsr0" name="web-таймер" author="" url="https://fdsc.github.io/timer/" tags="" ctime="20200604182424" dir="1591283596ti5zlzxoxo" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="159120109249nroyc627" name="Администрирование">
+   </node>
+   <node crypt="" id="1591284563kbb39h55mj" name="Сервисы в сети">
+    <node crypt="" id="15912848840shohmd5ws" name="E-mail и другие сообщения">
      <recordtable>
-      <record id="1591201126dwdwzbljxy" name="unlock-it: разблокировка заблокированных файлов" author="" url="https://emcosoftware.com/unlock-it" tags="Windows" ctime="20200603191846" dir="1591201126wbygpgayzv" file="text.html"/>
+      <record id="1591284871n5qb74wgd1" name="Protonmail" author="" url="https://protonmail.com/" tags="" ctime="20200604183450" dir="1591284871y7ayalwk69" file="text.html"/>
      </recordtable>
+     <node crypt="" id="15912848955q5q9ttrxm" name="Временные e-mail">
+      <recordtable>
+       <record id="1591284924mq2smg9on1" name="temp-mail.org" author="" url="https://temp-mail.org/ru/" tags="" ctime="20200604183524" dir="15912849249mu97nmu32" file="text.html"/>
+       <record id="1591285255s1lc59yu0q" name="anonymousemail.me" author="" url="https://anonymousemail.me/" tags="" ctime="20200604184055" dir="1591285255kzecgaemq6" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591285322s6014olzlp" name="Чаты">
+      <recordtable>
+       <record id="1591285417dy7b93mukv" name="Bitmessage" author="" url="https://bitmessage.org/wiki/Main_Page" tags="" ctime="20200604184337" dir="1591285417pec93jiiej" file="text.html"/>
+       <record id="1591292041ogm11mklsj" name="Signal" author="" url="https://signal.org/ru/" tags="Windows, Linux, Android, Mac" ctime="20200604203401" dir="1591292041slb7mpq1th" file="text.html"/>
+       <record id="15912942087i64hb0eyc" name="ToxChat" author="" url="https://tox.chat/download.html" tags="" ctime="20200604211008" dir="1591294208nwgrgen2iz" file="text.html"/>
+       <record id="159128681323hsdvqizo" name="TorChat (больше не разрабатывается)" author="" url="https://github.com/prof7bit/TorChat/releases" tags="" ctime="20200604190653" dir="1591286813x7sjx24fc7" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591288361l110596t3r" name="Одноразовые сообщения">
+      <recordtable>
+       <record id="1591285304h0t7b72lh2" name="Privnote.com" author="" url="https://privnote.com/" tags="" ctime="20200604193323" dir="15912853043akwu5rzph" file="text.html"/>
+       <record id="1591288398541p3oxvvh" name="send.firefox.com" author="" url="https://send.firefox.com/" tags="" ctime="20200604193318" dir="15912883985yejazxjmd" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
-    <node crypt="" id="1591203351efvyvw4vg9" name="Диски">
+    <node crypt="" id="159129026524ak992biv" name="Проверки на взлом аккаунтов">
      <recordtable>
-      <record id="1591203482xabyayykt5" name="ImDisk" author="" url="http://www.ltr-data.se/opencode.html#ImDisk" tags="" ctime="20200603195802" dir="1591203482jls1409rgw" file="text.html"/>
-      <record id="1591203505805w83o18t" name="ImDisk Toolkit" author="" url="https://sourceforge.net/projects/imdisk-toolkit/" tags="" ctime="20200603195825" dir="1591203505sq5fwm8ol3" file="text.html"/>
+      <record id="1591290351wntq13uxr8" name="haveibeenpwned.com" author="" url="https://haveibeenpwned.com/" tags="" ctime="20200604200551" dir="1591290351icsl0kxqqm" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -203,19 +281,31 @@
       <record id="15912145804kozj4s2h1" name="Ограниченно всемогущие" author="" url="" tags="" ctime="20200603230300" dir="1591214580wbsilxi97w" file="text.html"/>
       <record id="1591211258vhm76p2is1" name="Минимально приемлемый результат" author="" url="" tags="" ctime="20200603220738" dir="1591211258s109ykp3na" file="text.html"/>
       <record id="159121858519wh4ss8k2" name="Иезуитский подход" author="" url="" tags="" ctime="20200604000945" dir="159121858582usvne1iv" file="text.html"/>
+      <record id="1591293744ejl502l9t1" name="Проверка постановки задачи" author="" url="" tags="" ctime="20200604210224" dir="15912937441mp5j3419r" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1591206951cv42zb7bgf" name="Компонентный подход">
+    <node crypt="" id="1591206951cv42zb7bgf" name="Компонентный анализ">
      <recordtable>
       <record id="15912153891rjs39x4dd" name="Общая методика" author="" url="" tags="" ctime="20200603231629" dir="1591215389aaxujbcl5o" file="text.html"/>
       <record id="1591215588pq6g820pin" name="Добавление метрик объектов" author="" url="" tags="" ctime="20200603231948" dir="1591215588mssp5fto1n" file="text.html"/>
       <record id="159121529304e9d90b3m" name="Добавление объекта между другими объектами" author="" url="" tags="" ctime="20200603231453" dir="1591215293hpktpem1j2" file="text.html"/>
       <record id="1591216295qfwn3uuxak" name="Исходные посылки" author="" url="" tags="" ctime="20200603233135" dir="1591216295g1n1q3n0qd" file="text.html"/>
+      <record id="1591297407k301b0hek5" name="Все ли объекты учтены?" author="" url="" tags="" ctime="20200604220327" dir="1591297407t8yjjylmv7" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1591206966udvgcckys0" name="Всё наоборот"/>
+    <node crypt="" id="1591206966udvgcckys0" name="Всё наоборот">
+     <recordtable>
+      <record id="1591297206a4mok12wcl" name="Всё наоборот" author="" url="" tags="" ctime="20200604220006" dir="1591297206d2ptzk3eb7" file="text.html"/>
+      <record id="1591297575l47yht4w8g" name="Части задачи наоборот" author="" url="" tags="" ctime="20200604220615" dir="1591297575alg96qfyx6" file="text.html"/>
+      <record id="159129745403wdcgznps" name="Что может быть аналогично или противоположно?" author="" url="" tags="" ctime="20200604220414" dir="15912974545x7me9pl20" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="1591208186h6yn4zgb7j" name="Классификация"/>
-    <node crypt="" id="15912069619m702hdemw" name="В чём сложность задачи?"/>
+    <node crypt="" id="15912069619m702hdemw" name="В чём сложность задачи?">
+     <recordtable>
+      <record id="15912972955a9rdmzar5" name="В чём сложность задачи?" author="" url="" tags="" ctime="20200604220135" dir="1591297295nnr636thxd" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="15912115538kg2t0u1rh" name="Доказательство неразрешимости"/>
     <node crypt="" id="1591210505rgvhr9f5gc" name="Двунаправленный подход"/>
     <node crypt="" id="1591206934qaujxhsh1i" name="Суд"/>
