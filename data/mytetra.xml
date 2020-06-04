@@ -239,10 +239,12 @@
        <record id="159128681323hsdvqizo" name="TorChat (больше не разрабатывается)" author="" url="https://github.com/prof7bit/TorChat/releases" tags="" ctime="20200604190653" dir="1591286813x7sjx24fc7" file="text.html"/>
       </recordtable>
      </node>
-     <node crypt="" id="1591288361l110596t3r" name="Одноразовые сообщения">
+     <node crypt="" id="1591288361l110596t3r" name="Одноразовые сообщения и ссылки">
       <recordtable>
        <record id="1591285304h0t7b72lh2" name="Privnote.com" author="" url="https://privnote.com/" tags="" ctime="20200604193323" dir="15912853043akwu5rzph" file="text.html"/>
+       <record id="1591310187w47nd1wecb" name="onetimesecret.com" author="" url="https://onetimesecret.com/" tags="" ctime="20200605013627" dir="1591310187how0a64yj9" file="text.html"/>
        <record id="1591288398541p3oxvvh" name="send.firefox.com" author="" url="https://send.firefox.com/" tags="" ctime="20200604193318" dir="15912883985yejazxjmd" file="text.html"/>
+       <record id="15913104514jwv90uqv6" name="coderhs.com - одноразовые ссылки" author="" url="https://tmp.coderhs.com/" tags="" ctime="20200605014051" dir="1591310451u8tp6ul2ge" file="text.html"/>
       </recordtable>
      </node>
     </node>
