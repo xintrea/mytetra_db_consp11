@@ -183,6 +183,8 @@
       <record id="15912081774jbcsmlk8j" name="Ассоциации по списку &quot;крючков&quot;" author="" url="" tags="" ctime="20200603211617" dir="1591208177byfdb0llx4" file="text.html"/>
       <record id="1591215191b2ipt519ie" name="Профильные аналогии" author="" url="" tags="" ctime="20200603231311" dir="15912151914ljhbahgma" file="text.html"/>
       <record id="1591212561n44gtdpvf1" name="Свободные аналогии" author="" url="" tags="" ctime="20200603222921" dir="1591212561x1enbyc1uj" file="text.html"/>
+      <record id="15912189040zge8jw8d5" name="Рисунки" author="" url="" tags="" ctime="20200604001504" dir="1591218904l4zpdsqbmh" file="text.html"/>
+      <record id="15912189128cyrfoioum" name="Формальные представления" author="" url="" tags="" ctime="20200604001512" dir="1591218912ap30ntq0m7" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1591208934mmue8l1wl1" name="Простые изменения">
@@ -200,6 +202,7 @@
       <record id="159121049704zt7owavh" name="Обобщение и конкретизация, частные случаи" author="" url="" tags="" ctime="20200603230323" dir="1591210497lqcer9cwm8" file="text.html"/>
       <record id="15912145804kozj4s2h1" name="Ограниченно всемогущие" author="" url="" tags="" ctime="20200603230300" dir="1591214580wbsilxi97w" file="text.html"/>
       <record id="1591211258vhm76p2is1" name="Минимально приемлемый результат" author="" url="" tags="" ctime="20200603220738" dir="1591211258s109ykp3na" file="text.html"/>
+      <record id="159121858519wh4ss8k2" name="Иезуитский подход" author="" url="" tags="" ctime="20200604000945" dir="159121858582usvne1iv" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1591206951cv42zb7bgf" name="Компонентный подход">
@@ -220,6 +223,7 @@
      <recordtable>
       <record id="1591217370zdxfh3umi6" name="Икубатор" author="" url="" tags="" ctime="20200603234930" dir="1591217370q45xm1lfr9" file="text.html"/>
       <record id="1591213015fctge0733a" name="Мелкие гранулы" author="" url="" tags="" ctime="20200603223707" dir="1591213015qjpri1yeoc" file="text.html"/>
+      <record id="1591220656e4ow4bnh6x" name="Каталог частностей" author="" url="" tags="" ctime="20200604004416" dir="1591220656xreq06wmob" file="text.html"/>
      </recordtable>
     </node>
    </node>
