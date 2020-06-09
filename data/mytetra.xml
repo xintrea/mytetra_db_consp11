@@ -282,6 +282,7 @@
       <record id="159121049704zt7owavh" name="Обобщение и конкретизация, частные случаи" author="" url="" tags="" ctime="20200603230323" dir="1591210497lqcer9cwm8" file="text.html"/>
       <record id="15912145804kozj4s2h1" name="Ограниченно всемогущие" author="" url="" tags="" ctime="20200603230300" dir="1591214580wbsilxi97w" file="text.html"/>
       <record id="1591211258vhm76p2is1" name="Минимально приемлемый результат" author="" url="" tags="" ctime="20200603220738" dir="1591211258s109ykp3na" file="text.html"/>
+      <record id="1591719190kct8camc29" name="Принцип &quot;Шаг за шагом&quot;" author="" url="" tags="" ctime="20200609191310" dir="15917191902j9x93khcs" file="text.html"/>
       <record id="159121858519wh4ss8k2" name="Иезуитский подход" author="" url="" tags="" ctime="20200604000945" dir="159121858582usvne1iv" file="text.html"/>
       <record id="1591293744ejl502l9t1" name="Проверка постановки задачи" author="" url="" tags="" ctime="20200604210224" dir="15912937441mp5j3419r" file="text.html"/>
      </recordtable>
@@ -316,6 +317,19 @@
       <record id="1591217370zdxfh3umi6" name="Икубатор" author="" url="" tags="" ctime="20200603234930" dir="1591217370q45xm1lfr9" file="text.html"/>
       <record id="1591213015fctge0733a" name="Мелкие гранулы" author="" url="" tags="" ctime="20200603223707" dir="1591213015qjpri1yeoc" file="text.html"/>
       <record id="1591220656e4ow4bnh6x" name="Каталог частностей" author="" url="" tags="" ctime="20200604004416" dir="1591220656xreq06wmob" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1591722438qsrlag11oi" name="Самочувствие">
+    <recordtable>
+     <record id="1591722446u7kmc6okzz" name="Медитация" author="" url="" tags="" ctime="20200609200726" dir="1591722446zz0l9vtllf" file="text.html"/>
+     <record id="1591722452hhm6t9qxp0" name="Очистка" author="" url="" tags="" ctime="20200609200732" dir="1591722452hxk58rkgoc" file="text.html"/>
+     <record id="1591722522pqjm96gynf" name="Войти в состояние &quot;всё хорошо&quot;" author="" url="" tags="" ctime="20200609200842" dir="1591722522yo93t52jbw" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="15917264538u3iqhc1jx" name="Болезни">
+     <recordtable>
+      <record id="15917266488fwg15u7at" name="Если болит горло" author="" url="" tags="" ctime="20200609211728" dir="1591726648gpbr1ifx2s" file="text.html"/>
+      <record id="1591726500l7ez53hxto" name="Укусы комаров" author="" url="" tags="" ctime="20200609211500" dir="1591726500yvt90vqhpt" file="text.html"/>
      </recordtable>
     </node>
    </node>
