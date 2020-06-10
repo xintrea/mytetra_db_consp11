@@ -177,6 +177,11 @@
        </recordtable>
       </node>
      </node>
+     <node crypt="" id="1591801042m00cbq8of6" name="Антивирусы и МСЭ">
+      <recordtable>
+       <record id="1591801244d79bxs49ek" name="Comodo Internet Security" author="" url="https://antivirus.comodo.com/" tags="" ctime="20200610180044" dir="1591801244rm1oqz5yfw" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="1591284241w42ufr6r3o" name="Системные">
      <node crypt="" id="1591284241hcp3cqif62" name="Виртуализация">
@@ -239,6 +244,7 @@
      </node>
      <node crypt="" id="1591786636wocbkvnvut" name="Видео">
       <recordtable>
+       <record id="159180241993y3pjq2nc" name="K-Lite Codec Pack" author="" url="https://codecguide.com/" tags="Windows" ctime="20200610182019" dir="1591802419fwvmm619if" file="text.html"/>
        <record id="15917866716leqo0uaqh" name="HandBrake" author="" url="https://handbrake.fr/" tags="" ctime="20200610135751" dir="159178667115hzep73dn" file="text.html"/>
       </recordtable>
      </node>
