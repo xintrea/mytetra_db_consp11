@@ -212,6 +212,10 @@
          <file id="1591284539j0h1h0kvz0" fileName="nppGpgPub.asc" type="file"/>
         </files>
        </record>
+       <record id="1591799374irnsc04a49" name="Sumatra PDF" author="" url="https://www.sumatrapdfreader.org/free-pdf-reader.html" tags="" ctime="20200610172934" dir="15917993740iiskqp60f" file="text.html"/>
+       <record id="15917995326kcr4rdrjw" name="&#10;STDU Viewer" author="" url="http://www.stdutility.com/stduviewer.html" tags="" ctime="20200610173212" dir="1591799532qhjoay28l0" file="text.html"/>
+       <record id="1591799647fz7vq16d6w" name="CoolReader 3.0" author="" url="https://sourceforge.net/projects/crengine/" tags="" ctime="20200610173407" dir="15917996477gggay3pef" file="text.html"/>
+       <record id="1591799714uswysdgme9" name="OpenOffice" author="" url="https://www.openoffice.org/ru/" tags="" ctime="20200610173514" dir="1591799714i38el7omv7" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1591289010f6fyc68etu" name="Архиваторы">
@@ -228,6 +232,7 @@
     <node crypt="" id="1591786626c1nsi4czhp" name="Медиа">
      <node crypt="" id="15917866302hjblcbgx4" name="Аудио">
       <recordtable>
+       <record id="1591799282zqwj6q93wg" name="AIMP" author="" url="http://www.aimp.ru/" tags="" ctime="20200610172802" dir="1591799282xigx9o8p3g" file="text.html"/>
        <record id="1591786840up80mdlnl5" name="audacity" author="" url="https://www.audacityteam.org/" tags="" ctime="20200610140040" dir="1591786840vsefjeerw0" file="text.html"/>
        <record id="1591786868seky2nrvcv" name="anvilstudio" author="" url="https://www.anvilstudio.com/" tags="" ctime="20200610140108" dir="1591786868c58ss9o56s" file="text.html"/>
       </recordtable>
@@ -237,6 +242,16 @@
        <record id="15917866716leqo0uaqh" name="HandBrake" author="" url="https://handbrake.fr/" tags="" ctime="20200610135751" dir="159178667115hzep73dn" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="159179913961k23xxt9g" name="3D">
+      <recordtable>
+       <record id="1591799182xn93futo1i" name="Blender" author="" url="https://www.blender.org/" tags="" ctime="20200610172622" dir="1591799182lstte9tfty" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+    <node crypt="" id="1591798621f9q529fd0f" name="Игры">
+     <recordtable>
+      <record id="1591798641eihc0bg4dx" name="artmoney - программа для редактирования значений денег в играх" author="" url="http://www.artmoney.ru/rus.htm" tags="" ctime="20200610171721" dir="1591798641tyaf1at1j9" file="text.html"/>
+     </recordtable>
     </node>
    </node>
    <node crypt="" id="1591284563kbb39h55mj" name="Сервисы в сети">
