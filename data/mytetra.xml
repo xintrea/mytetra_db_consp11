@@ -194,6 +194,12 @@
        <record id="1591203482xabyayykt5" name="ImDisk" author="" url="http://www.ltr-data.se/opencode.html#ImDisk" tags="" ctime="20200604182401" dir="1591203482jls1409rgw" file="text.html"/>
        <record id="1591203505805w83o18t" name="ImDisk Toolkit" author="" url="https://sourceforge.net/projects/imdisk-toolkit/" tags="" ctime="20200604182401" dir="1591203505sq5fwm8ol3" file="text.html"/>
        <record id="1591290238e314dtzhze" name="Dataram RamDisk" author="" url="http://memory.dataram.com/products-and-services/software/ramdisk" tags="" ctime="20200604200358" dir="1591290238sdodox6z96" file="text.html"/>
+       <record id="1591787393ylmen59i83" name="defraggler (дефрагментатор)" author="" url="https://www.ccleaner.com/defraggler" tags="" ctime="20200610140953" dir="1591787393hotc60hjm1" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591787261gyp49g58cm" name="Восстановление удалённых файлов">
+      <recordtable>
+       <record id="1591787305ib7sltamru" name="Recuva" author="" url="https://www.ccleaner.com/recuva" tags="" ctime="20200610140825" dir="1591787305xdrzs9b081" file="text.html"/>
       </recordtable>
      </node>
     </node>
