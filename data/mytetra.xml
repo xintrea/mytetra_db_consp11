@@ -219,6 +219,19 @@
       <record id="15912835963gfgwtrsr0" name="web-таймер" author="" url="https://fdsc.github.io/timer/" tags="" ctime="20200604182424" dir="1591283596ti5zlzxoxo" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1591786626c1nsi4czhp" name="Медиа">
+     <node crypt="" id="15917866302hjblcbgx4" name="Аудио">
+      <recordtable>
+       <record id="1591786840up80mdlnl5" name="audacity" author="" url="https://www.audacityteam.org/" tags="" ctime="20200610140040" dir="1591786840vsefjeerw0" file="text.html"/>
+       <record id="1591786868seky2nrvcv" name="anvilstudio" author="" url="https://www.anvilstudio.com/" tags="" ctime="20200610140108" dir="1591786868c58ss9o56s" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1591786636wocbkvnvut" name="Видео">
+      <recordtable>
+       <record id="15917866716leqo0uaqh" name="HandBrake" author="" url="https://handbrake.fr/" tags="" ctime="20200610135751" dir="159178667115hzep73dn" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
    </node>
    <node crypt="" id="1591284563kbb39h55mj" name="Сервисы в сети">
     <node crypt="" id="15912848840shohmd5ws" name="E-mail и другие сообщения">
