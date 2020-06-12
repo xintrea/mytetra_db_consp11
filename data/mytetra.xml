@@ -200,6 +200,7 @@
        <record id="1591203505805w83o18t" name="ImDisk Toolkit" author="" url="https://sourceforge.net/projects/imdisk-toolkit/" tags="" ctime="20200604182401" dir="1591203505sq5fwm8ol3" file="text.html"/>
        <record id="1591290238e314dtzhze" name="Dataram RamDisk" author="" url="http://memory.dataram.com/products-and-services/software/ramdisk" tags="" ctime="20200604200358" dir="1591290238sdodox6z96" file="text.html"/>
        <record id="1591787393ylmen59i83" name="defraggler (дефрагментатор)" author="" url="https://www.ccleaner.com/defraggler" tags="" ctime="20200610140953" dir="1591787393hotc60hjm1" file="text.html"/>
+       <record id="1591983668xbrar56o66" name="Перезатирание данных" author="" url="" tags="" ctime="20200612204108" dir="15919836686jeh5008sh" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1591787261gyp49g58cm" name="Восстановление удалённых файлов">
@@ -343,7 +344,11 @@
       <record id="159129745403wdcgznps" name="Что может быть аналогично или противоположно?" author="" url="" tags="" ctime="20200604220414" dir="15912974545x7me9pl20" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="1591208186h6yn4zgb7j" name="Классификация"/>
+    <node crypt="" id="1591208186h6yn4zgb7j" name="Классификация">
+     <recordtable>
+      <record id="1591988411qa0lp44076" name="Классифицировать решения" author="" url="" tags="" ctime="20200612220011" dir="1591988411jgm0y3dx9j" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="15912069619m702hdemw" name="В чём сложность задачи?">
      <recordtable>
       <record id="15912972955a9rdmzar5" name="В чём сложность задачи?" author="" url="" tags="" ctime="20200604220135" dir="1591297295nnr636thxd" file="text.html"/>
@@ -358,6 +363,22 @@
       <record id="1591213015fctge0733a" name="Мелкие гранулы" author="" url="" tags="" ctime="20200603223707" dir="1591213015qjpri1yeoc" file="text.html"/>
       <record id="1591220656e4ow4bnh6x" name="Каталог частностей" author="" url="" tags="" ctime="20200604004416" dir="1591220656xreq06wmob" file="text.html"/>
      </recordtable>
+    </node>
+    <node crypt="" id="1591991301e4gqstgkwn" name="Де Боно">
+     <recordtable>
+      <record id="1591991310ufm9nkg060" name="Эдвард де Боно, &quot;Гениально! Инструменты решения креативных задач&quot;" author="" url="" tags="" ctime="20200612224830" dir="15919913100qu6l2pwv4" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1591991339asu0b1kn21" name="Шесть шляп">
+      <recordtable>
+       <record id="15919913739ymlm02k52" name="Общая идея" author="" url="" tags="" ctime="20200612224933" dir="1591991373p7bhs2c05i" file="text.html"/>
+       <record id="1591991453eel8y9lkx8" name="Белая шляпа" author="" url="" tags="" ctime="20200612225053" dir="15919914530vif7mcs0d" file="text.html"/>
+       <record id="1591991644rtawtvqxvr" name="Красная шляпа" author="" url="" tags="" ctime="20200612225404" dir="1591991644dp933sq6rq" file="text.html"/>
+       <record id="1591991764luu9a94ox8" name="Чёрная шляпа" author="" url="" tags="" ctime="20200612225604" dir="1591991764q7g14k82ym" file="text.html"/>
+       <record id="15919918518b3yy4d01w" name="Жёлтая шляпа" author="" url="" tags="" ctime="20200612225731" dir="1591991851y1mafn5tkn" file="text.html"/>
+       <record id="1591992485yc9h3843kp" name="Зелёная шляпа" author="" url="" tags="" ctime="20200612230805" dir="1591992485f49mk4z370" file="text.html"/>
+       <record id="1591992578b0yd1oymaf" name="Синяя шляпа" author="" url="" tags="" ctime="20200612230938" dir="1591992578kkl67ln4ax" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1591722438qsrlag11oi" name="Самочувствие">
