@@ -379,6 +379,20 @@
        <record id="1591992578b0yd1oymaf" name="Синяя шляпа" author="" url="" tags="" ctime="20200612230938" dir="1591992578kkl67ln4ax" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="15919952909t7n4h92xj" name="Творческая пауза">
+      <recordtable>
+       <record id="1591995369q6vss13cmu" name="Пауза" author="" url="" tags="" ctime="20200612235609" dir="1591995369tewj4juncv" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="15920695106y0ae1qqe0" name="Фокусировка">
+      <recordtable>
+       <record id="1592069567hg1hivuzas" name="Простая фокусировка" author="" url="" tags="" ctime="20200613203247" dir="1592069567ykfgjci6f0" file="text.html"/>
+       <record id="1592069681wrq4crq85c" name="Составление списка фокусных точек" author="" url="" tags="" ctime="20200613203441" dir="15920696816g1mioilhk" file="text.html"/>
+       <record id="1592070055rrymp5uu2j" name="Преднамеренная фокусировка" author="" url="" tags="" ctime="20200613204055" dir="1592070055ncffu5ulux" file="text.html"/>
+       <record id="1592070936en5mnm7j32" name="Когда применять фокусировку?" author="" url="" tags="" ctime="20200613205536" dir="15920709365ok1g4if6v" file="text.html"/>
+       <record id="1592071139z5y7ofwcmn" name="Покомпонентная фокусировка" author="" url="" tags="" ctime="20200613205859" dir="1592071139yvdktzzhph" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
    </node>
    <node crypt="" id="1591722438qsrlag11oi" name="Самочувствие">
