@@ -192,6 +192,7 @@
      <node crypt="" id="15912842416f64b4vvct" name="Администрирование">
       <recordtable>
        <record id="1591201126dwdwzbljxy" name="unlock-it: разблокировка заблокированных файлов" author="" url="https://emcosoftware.com/unlock-it" tags="Windows" ctime="20200604182401" dir="1591201126wbygpgayzv" file="text.html"/>
+       <record id="159212561923dwkocm5w" name="openhardwaremonitor.org (Температура процессора и дисков)" author="" url="" tags="" ctime="20200614120659" dir="15921256197tfxojhv1d" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1591284241r4kenx1mfg" name="Диски">
