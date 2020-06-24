@@ -327,6 +327,7 @@
       <record id="1591719190kct8camc29" name="Принцип &quot;Шаг за шагом&quot;" author="" url="" tags="" ctime="20200609191310" dir="15917191902j9x93khcs" file="text.html"/>
       <record id="159121858519wh4ss8k2" name="Иезуитский подход" author="" url="" tags="" ctime="20200604000945" dir="159121858582usvne1iv" file="text.html"/>
       <record id="1591293744ejl502l9t1" name="Проверка постановки задачи" author="" url="" tags="" ctime="20200604210224" dir="15912937441mp5j3419r" file="text.html"/>
+      <record id="1592851318onbwk19jr3" name="Найти различия" author="" url="" tags="" ctime="20200622214158" dir="15928513186lr5bbfjn5" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1591206951cv42zb7bgf" name="Компонентный анализ">
@@ -353,11 +354,25 @@
     <node crypt="" id="15912069619m702hdemw" name="В чём сложность задачи?">
      <recordtable>
       <record id="15912972955a9rdmzar5" name="В чём сложность задачи?" author="" url="" tags="" ctime="20200604220135" dir="1591297295nnr636thxd" file="text.html"/>
+      <record id="1592997244z2l521bc6n" name="Как можно понять, что задача решена" author="" url="" tags="" ctime="20200624141404" dir="15929972448h7pyessot" file="text.html"/>
      </recordtable>
     </node>
-    <node crypt="" id="15912115538kg2t0u1rh" name="Доказательство неразрешимости"/>
-    <node crypt="" id="1591210505rgvhr9f5gc" name="Двунаправленный подход"/>
-    <node crypt="" id="1591206934qaujxhsh1i" name="Суд"/>
+    <node crypt="" id="15912115538kg2t0u1rh" name="Доказательство неразрешимости">
+     <recordtable>
+      <record id="15929830085v31oetgep" name="Доказать неразрешимость" author="" url="" tags="" ctime="20200624101648" dir="1592983008no2f7au6gr" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1591210505rgvhr9f5gc" name="Двунаправленный подход">
+     <recordtable>
+      <record id="1592982970zdvnmluah2" name="Посмотреть с двух направлений на решение" author="" url="" tags="" ctime="20200624101610" dir="1592982970qs4nzrlh3n" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1591206934qaujxhsh1i" name="Суд">
+     <recordtable>
+      <record id="1593009912cnr8q2lf8i" name="Представить себе, что тебя судят" author="" url="" tags="" ctime="20200624174512" dir="15930099127l7tlg35g5" file="text.html"/>
+      <record id="159301011947lm6c9ids" name="Представить себе, что ты доказываешь другим людям нечто" author="" url="" tags="" ctime="20200624174839" dir="15930101194ap8u2kf2j" file="text.html"/>
+     </recordtable>
+    </node>
     <node crypt="" id="1591213020a2rv65j148" name="Инкубатор идей">
      <recordtable>
       <record id="1591217370zdxfh3umi6" name="Икубатор" author="" url="" tags="" ctime="20200603234930" dir="1591217370q45xm1lfr9" file="text.html"/>
