@@ -168,7 +168,11 @@
       </node>
       <node crypt="" id="1591288435a408r5348e" name="Диски">
        <recordtable>
-        <record id="1591288457oh72jgzcv5" name="VeraCrypt" author="" url="https://www.veracrypt.fr/en/Home.html" tags="" ctime="20200604193417" dir="15912884570k4u5r73tm" file="text.html"/>
+        <record id="1591288457oh72jgzcv5" name="VeraCrypt" author="" url="https://www.veracrypt.fr/en/Home.html" tags="" ctime="20200604193417" dir="15912884570k4u5r73tm" file="text.html">
+         <files>
+          <file id="1593722439z2smsozsbe" fileName="VeraCrypt_PGP_public_key.asc" type="file"/>
+         </files>
+        </record>
        </recordtable>
       </node>
       <node crypt="" id="1591290057ll6n6th9a4" name="Стеганография">
@@ -307,6 +311,7 @@
       <record id="1591212561n44gtdpvf1" name="Свободные аналогии" author="" url="" tags="" ctime="20200603222921" dir="1591212561x1enbyc1uj" file="text.html"/>
       <record id="15912189040zge8jw8d5" name="Рисунки" author="" url="" tags="" ctime="20200604001504" dir="1591218904l4zpdsqbmh" file="text.html"/>
       <record id="15912189128cyrfoioum" name="Формальные представления" author="" url="" tags="" ctime="20200604001512" dir="1591218912ap30ntq0m7" file="text.html"/>
+      <record id="1593359307egli9jc6eg" name="Поиск естественного отбора" author="" url="" tags="" ctime="20200628184827" dir="1593359307lchn8mrqa5" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1591208934mmue8l1wl1" name="Простые изменения">
@@ -316,6 +321,7 @@
       <record id="1591209246vugudqysby" name="Изменение качества и оси времени" author="" url="" tags="" ctime="20200603213406" dir="1591209246q0zy1608ut" file="text.html"/>
       <record id="159121091697dk30urzr" name="Изменение или дополнение формулировки задачи" author="" url="" tags="" ctime="20200603220156" dir="1591210916q3w5q6l3g0" file="text.html"/>
       <record id="1591210923ptr54w1kl2" name="Перефокусировка" author="" url="" tags="" ctime="20200603220203" dir="1591210923nqfk9v4uvf" file="text.html"/>
+      <record id="1593847160h898rnzqpq" name="Построить структуру" author="" url="" tags="" ctime="20200704101920" dir="1593847160fmf2vgh1qg" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1591210964rmj8uhmriv" name="Преднамеренные ошибки">
