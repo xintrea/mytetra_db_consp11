@@ -191,6 +191,7 @@
      <node crypt="" id="1591284241hcp3cqif62" name="Виртуализация">
       <recordtable>
        <record id="1591194530dlms79txrh" name="Virtual Box" author="" url="https://www.virtualbox.org/wiki/Downloads" tags="Windows, Linux" ctime="20200604182401" dir="1591194530490d95458u" file="text.html"/>
+       <record id="15949068443oil1dnhfh" name="Docker" author="" url="" tags="" ctime="20200716164044" dir="1594906844vqqe1l92xd" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="15912842416f64b4vvct" name="Администрирование">
@@ -211,6 +212,12 @@
      <node crypt="" id="1591787261gyp49g58cm" name="Восстановление удалённых файлов">
       <recordtable>
        <record id="1591787305ib7sltamru" name="Recuva" author="" url="https://www.ccleaner.com/recuva" tags="" ctime="20200610140825" dir="1591787305xdrzs9b081" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1594906605douxqnwwac" name="Операционные системы">
+      <recordtable>
+       <record id="1594906552tmgcrwd6rg" name="Linux" author="" url="" tags="" ctime="20200716163657" dir="1594906552k1rvpu1ln3" file="text.html"/>
+       <record id="1594906706zhm462p0ja" name="KolibriOS" author="" url="" tags="" ctime="20200716163826" dir="15949067063dt675zf9c" file="text.html"/>
       </recordtable>
      </node>
     </node>
