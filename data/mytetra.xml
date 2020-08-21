@@ -254,12 +254,14 @@
        <record id="1591799282zqwj6q93wg" name="AIMP" author="" url="http://www.aimp.ru/" tags="" ctime="20200610172802" dir="1591799282xigx9o8p3g" file="text.html"/>
        <record id="1591786840up80mdlnl5" name="audacity" author="" url="https://www.audacityteam.org/" tags="" ctime="20200610140040" dir="1591786840vsefjeerw0" file="text.html"/>
        <record id="1591786868seky2nrvcv" name="anvilstudio" author="" url="https://www.anvilstudio.com/" tags="" ctime="20200610140108" dir="1591786868c58ss9o56s" file="text.html"/>
+       <record id="1597594773s1tlscdi59" name="Генераторы речи и программы озвучивания" author="" url="" tags="" ctime="20200816191933" dir="15975947738qxgnq7nzw" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1591786636wocbkvnvut" name="Видео">
       <recordtable>
        <record id="159180241993y3pjq2nc" name="K-Lite Codec Pack" author="" url="https://codecguide.com/" tags="Windows" ctime="20200610182019" dir="1591802419fwvmm619if" file="text.html"/>
        <record id="15917866716leqo0uaqh" name="HandBrake" author="" url="https://handbrake.fr/" tags="" ctime="20200610135751" dir="159178667115hzep73dn" file="text.html"/>
+       <record id="1597594109qbudtvb48y" name="VSDC Free Video Editor" author="" url="http://www.videosoftdev.com/free-video-editor/download" tags="" ctime="20200816190829" dir="1597594109p1ymkseco8" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="159179913961k23xxt9g" name="3D">
